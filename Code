@@ -16,11 +16,11 @@ public void solveSudoku(char[][] board) {
               board[row][col]='.';
           }
          }
-          return false;
+          return false; // Backtrack if no valid number found
          }
      }
      }
-     return true;
+     return true; 
     }
 
     public boolean isValid(char[][]board,int row, int col, char c){

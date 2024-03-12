@@ -9,7 +9,7 @@ It aims to solve solve sudoku puzzles with a variety of different constraints wh
 
 ## Table of Contents
 I. Introduction  
-II. Usage
+II. Usage  
 III. License
 
 ## I. Introduction

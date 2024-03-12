@@ -7,24 +7,6 @@ It aims to solve solve sudoku puzzles with a variety of different constraints wh
 - Stepping through the solving process.
 
 
-
-
-To demonstrate the usage of the Sudoku solver, let's solve the following puzzle:
-
-5 3 . | . 7 . | . . .
-6 . . | 1 9 5 | . . .
-. 9 8 | . . . | . 6 .
-------+-------+------
-8 . . | . 6 . | . . 3
-4 . . | 8 . 3 | . . 1
-7 . . | . 2 . | . . 6
-------+-------+------
-. 6 . | . . . | 2 8 .
-. . . | 4 1 9 | . . 5
-. . . | . 8 . | . 7 9
-
-Welcome to the Sudoku Solver project! This Java program is capable of solving any given Sudoku puzzle using efficient algorithms.
-
 ## Table of Contents
 I. Introduction  
 II. Usage
